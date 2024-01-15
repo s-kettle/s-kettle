@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sam.
+- 👀 I’m interested in everything tech, music and games.
+- 🌱 I’m currently learning the basics!
+- 😄 Pronouns: he/him
