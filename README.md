@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sam.
 - 👀 I’m interested in everything tech, music and games.
 - 🌱 I’m currently learning the basics!
+- 👨🏻‍💻 Currently enrolled on the Northcoder Java bootcamp
 - 😄 Pronouns: he/him
