@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam.
 - 👀 I’m interested in everything tech, music and games.
-- 👨🏻‍💻 Recently graduated from the Northcoders Java bootcamp.
-- 🤞🏻 Aspire to become a junior developer in 2024.
+- 👨🏻‍💻 Junior Software Developer
+- 💻 Stack: C#, ASP.NET, Blazor, SQL, Azure, Docker
 - 😄 Pronouns: he/him
