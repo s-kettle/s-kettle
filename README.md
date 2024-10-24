@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm **Sam**!
 
-- 💻 I'm a **software developer** at **CMSG Ltd**, where I work on **React**, a leading ASB (Anti-Social Behaviour) case management system, and its partner **ASB App**.
-- 🔧 My **tech stack** includes **C#**, **.NET**, **Blazor**, and **JavaScript**, though I’ve also got experience with **Java**, **Spring**, and **Android** development.
+- 💻 I'm a **software developer** at CMSG Ltd. I work on React, a leading ASB (Anti-Social Behaviour) case management system, and the partner ASB App.
+- 🔧 Tech stack => C#, .NET, Blazor, and JavaScript. I also have experience with Java, Spring, and Android.
 - 📚 **Book lover**. I'll be buried in a good novel when I’m not coding.
 - 🎶 **Music enthusiast**. I love all types of music, especially electronic, metal, and jazz. I produce on Logic Pro when I have a spare minute (not often!)
 - 🚴 **Cyclist** when I need to get away from the desk.
