@@ -8,5 +8,5 @@
 - 🏒 **Ice-hockey enthusiast**. Let's go Nottingham Panthers!  
 
 ### What I'm working on:
-- **Blazor Client Tracking App** – A personal project to manage client data efficiently using the Blazor framework.
+- **Blazor Meal Tracking App** – A personal project to manage meal planning using the Blazor & Blazorise framework.
 - **Personal Website** – featuring a blog and project list.
